@@ -24,7 +24,9 @@ ul {
   font-family: 'IBMP';
   src: url(../fonts/IBM_Plex_Sans/IBMPlexSans-Bold.ttf);
 }
-
+.katusha{
+  padding-left: 80px;
+}
 .container {
   width: 1200px;
   max-width: 94%;
